@@ -31,9 +31,9 @@ h1{
 
 /* Text box stylings */
 textarea{
-    border: none;
+    border: dashed grey;
     padding: 10%;
-    width: 50%;
+    width: 100%;
     text-align: center;
     color: grey;
 }
@@ -45,14 +45,23 @@ textarea{
 }
 
 #generate{
-    background-color: indigo;
+    /* background-color: red;
     font-size: 20px;
     color: white;
-}
-
-#clip{
-    background-color: indigo;
-    font-size: 20px;
-    color: white;
-    margin-left: 3px;
+    border-radius: 25px;
+    display: inline-block;
+    text-align: center;
+    border: none; */
+    background-color: hsl(360, 91%, 36%);
+    border-radius: 25px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 6px 0px rgba(0, 0, 0, 0.2) 0px 1px 1px
+      0px;
+    color: hsl(0, 0%, 100%);
+    display: inline-block;
+    font-size: 22px;
+    line-height: 22px;
+    margin: 16px 16px 16px 20px;
+    padding: 14px 34px;
+    text-align: center;
+    cursor: pointer;
 }
