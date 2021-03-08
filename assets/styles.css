@@ -1,0 +1,58 @@
+/* Body stylings */
+body{
+    background-color: white;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    color: turquoise;
+}
+
+/* Container div stylings*/
+#container{
+    background-color: whitesmoke;
+    margin: 15% 15% 15% 15%;
+}
+
+/* Content id stylings */
+#content{
+    display: flex;
+    justify-content: center;
+    margin:10%;
+    background-color: white;
+    box-shadow: 5px 10px 18px grey;
+}
+
+/* h1 stylings */
+h1{
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+/* Text box stylings */
+textarea{
+    border: none;
+    padding: 10%;
+    width: 50%;
+    text-align: center;
+    color: grey;
+}
+
+/* Button stylings */
+#buttons{
+    display: flex;
+    justify-content: center;
+}
+
+#generate{
+    background-color: indigo;
+    font-size: 20px;
+    color: white;
+}
+
+#clip{
+    background-color: indigo;
+    font-size: 20px;
+    color: white;
+    margin-left: 3px;
+}
