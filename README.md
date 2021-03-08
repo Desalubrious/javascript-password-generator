@@ -2,6 +2,7 @@
 
 # Procedure
 I was tasked with making a password generator using my javascript, html, and CSS skills. This assignment was primarily focused on my javascript skills. I used my knowledge of javascript to successfully create alerts, functions, and listeners to successfully fulfil all of the criteria.
+Application deployed at: https://desalubrious.github.io/javascript-password-generator/
 
 # Critera
 ```
@@ -38,3 +39,4 @@ THEN the password is either displayed in an alert or written to the page
 
 
 # Images
+![Deployed site gif](https://github.com/Desalubrious/javascript-password-generator/blob/main/assets/pwgengif.gif?raw=true)
